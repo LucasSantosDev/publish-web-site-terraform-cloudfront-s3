@@ -4,11 +4,11 @@
 
 ## Terraform # Cloudfront # S3
 
-<img style="margin-right: 50px;" width="100px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
-
-<img style="margin-right: 50px;" width="100px" src="https://cdn.worldvectorlogo.com/logos/aws-cloudfront.svg">
-
-<img style="margin-right: 50px;" width="100px" src="https://snapshooter.io/assets/img/marketing/providers/aws-s3.svg">
+<div style="display: flex; flex-direction: row;">
+  <img style="margin-right: 50px;" width="100px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
+  <img style="margin-right: 50px;" width="100px" src="https://cdn.worldvectorlogo.com/logos/aws-cloudfront.svg">
+  <img style="margin-right: 50px;" width="100px" src="https://snapshooter.io/assets/img/marketing/providers/aws-s3.svg">
+</div>
 
 ##### ✅ Put credentials AWS User in your .zshrc or .bash_profile to easily your life
 
